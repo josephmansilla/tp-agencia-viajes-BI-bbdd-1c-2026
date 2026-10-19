@@ -1,5 +1,9 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+<img width="90" height="90" alt="octopus" src="https://github.com/user-attachments/assets/9abf5504-ef94-4917-ad3b-718a65b8012a" />
+
 # Gestión de Viajes | Base de Datos y Business Intelligence
+
 
 > **Trabajo Práctico de Gestión de Datos** | 1° Cuatrimestre 2026  
 > Grupo: **SQL0** | Universidad Tecnológica Nacional - FRBA
