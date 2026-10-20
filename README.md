@@ -1,4 +1,6 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+[![UTN FRBA](https://img.shields.io/badge/UTN-FRBA-005BBB.svg)](https://www.frba.utn.edu.ar/)
+[![Course Period](https://img.shields.io/badge/cursada-1C%202026-blue.svg)](#sobre-la-cursada)
 
 <img width="90" height="90" alt="octopus" src="https://github.com/user-attachments/assets/9abf5504-ef94-4917-ad3b-718a65b8012a" />
 
